@@ -4,4 +4,4 @@ Projeto de criação de uma Landing page para consolidar aprendizado do modúlo 
 
 
 Link:
-(Clique aqui para acessar a página)[landing-page-com-flexbox.surge.sh]
+[Clique aqui para acessar a página](landing-page-com-flexbox.surge.sh)
